@@ -10,3 +10,5 @@ public class SingletonUse {
 	}
 
 }
+
+// test out the git bash 
